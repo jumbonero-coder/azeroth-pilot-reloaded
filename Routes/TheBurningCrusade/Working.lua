@@ -1256,6 +1256,25 @@
             _index = 87,
         },
         {
+            DropQuest = 9373,
+            DroppableQuest = {
+                MobId = 16857,
+                Qid = 9373,
+                Text = "Marauding Crust Burster",
+            },
+            Fillers = {
+                [10236] = {
+                    1,
+                },
+            },
+            Coord = {
+                x = 3064.7,
+                y = 56.1,
+            },
+            Zone = 100,
+            _index = 88,
+        },
+        {
             Qpart = {
                 [10236] = {
                     1,
@@ -1267,20 +1286,6 @@
             },
             Zone = 100,
             Range = 30,
-            _index = 88,
-        },
-        {
-            DropQuest = 9373,
-            DroppableQuest = {
-                MobId = 16857,
-                Qid = 9373,
-                Text = "Marauding Crust Burster",
-            },
-            Coord = {
-                x = 3064.7,
-                y = 56.1,
-            },
-            Zone = 100,
             _index = 89,
         },
         {
