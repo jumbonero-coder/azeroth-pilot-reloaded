@@ -1375,6 +1375,11 @@
             _index = 96,
         },
         {
+            UseItem = {
+                itemID = 30803,
+                itemSpellID = 1269298,
+                questID = 10629,
+            },
             UseSpell = {
                 questID = 10629,
                 spellID = 1269298,
