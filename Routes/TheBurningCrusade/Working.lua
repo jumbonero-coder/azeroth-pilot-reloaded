@@ -1545,6 +1545,14 @@
                     1,
                 },
             },
+            Fillers = {
+                [9345] = {
+                    1,
+                },
+                [10161] = {
+                    1,
+                },
+            },
             Coord = {
                 x = 2174.9,
                 y = -971.4,
@@ -1608,6 +1616,35 @@
             },
             Zone = 100,
             _index = 115,
+        },
+        {
+            LootItems = {
+                {
+                    questID = 10792,
+                    itemID = 31346,
+                    quantity = 4,
+                },
+            },
+            UseItem = {
+                itemID = 31347,
+                itemSpellID = 38345,
+                questID = 10792,
+            },
+            Fillers = {
+                [9345] = {
+                    1,
+                },
+                [10161] = {
+                    1,
+                },
+            },
+            Coord = {
+                x = 1966.2,
+                y = -904.4,
+            },
+            Zone = 100,
+            Range = 5,
+            _index = 116,
         },
         {
             Qpart = {
