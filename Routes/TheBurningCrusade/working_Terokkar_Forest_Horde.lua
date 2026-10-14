@@ -115,17 +115,11 @@
             _index = 16,
         },
         {
-            LearnProfession = 265857,
-            Coord = { x = 5063.6, y = -1374 },
-            Zone = 108,
-            _index = 17,
-        },
-        {
             Qpart = { [10037] = { 1 } },
             Coord = { x = 4958.2, y = -1419.1 },
             Range = 30,
             Zone = 108,
-            _index = 18,
+            _index = 17,
         },
         {
             Qpart = { [10112] = { 1 } },
@@ -133,25 +127,25 @@
             Coord = { x = 5388.3, y = -2452.6 },
             Range = 30,
             Zone = 108,
-            _index = 19,
+            _index = 18,
         },
         {
             Done = { 10112 },
             Coord = { x = 5191.2, y = -1742.2 },
             Zone = 111,
-            _index = 20,
+            _index = 19,
         },
         {
             PickUp = { 9990 },
             Coord = { x = 5191.2, y = -1742.2 },
             Zone = 111,
-            _index = 21,
+            _index = 20,
         },
         {
             Done = { 10037 },
             Coord = { x = 5298.6, y = -1611.5 },
             Zone = 111,
-            _index = 22,
+            _index = 21,
         },
     },
 }
