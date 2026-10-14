@@ -1,0 +1,13 @@
+EMPOOR_AND_BODYGUARD_PATROL
+
+enUS: Empoor and his bodyguard patrol the road between Tuurem and Shattrath.
+ruRU: Эмпур и его телохранитель ходят по дороге между Тууремом и Шаттратом.
+deDE: Empoor und Empoors Leibwächter patrouillieren auf der Straße zwischen Tuurem und Shattrath.
+frFR: Empoor et le garde du corps d'Empoor patrouillent sur la route entre Tuurem et Shattrath.
+esES: Empoor y el guardaespaldas de Empoor patrullan el camino entre Tuurem y Shattrath.
+esMX: Empoor y el guardaespaldas de Empoor patrullan el camino entre Tuurem y Shattrath.
+itIT: Empoor e la Guardia del Corpo di Empoor pattugliano la strada tra Tuurem e Shattrath.
+ptBR: Empur e o Guarda-costas de Empur patrulham a estrada entre Tuurem e Shattrath.
+koKR: 엠푸르와 엠푸르의 경호원이 투렘과 샤트라스 사이의 길을 순찰합니다.
+zhCN: 埃博尔和埃博尔的保镖在图雷姆与沙塔斯城之间的大路上巡逻。
+zhTW: 安普爾和安普爾的護衛在杜瑞與撒塔斯城之間的路上巡邏。
