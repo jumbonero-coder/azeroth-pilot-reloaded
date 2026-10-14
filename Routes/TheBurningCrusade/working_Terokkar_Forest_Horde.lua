@@ -70,8 +70,8 @@
         {
             GossipOptionIDs = { 33453 },
             ExtraLineText = "EMPOOR_AND_BODYGUARD_PATROL",
-            IsQuestOnQuest = 9978,
             Coord = { x = 4664.4, y = -1949.9 },
+            IsQuestOnQuest = 9978,
             Zone = 108,
             _index = 10,
         },
@@ -88,6 +88,18 @@
             Coord = { x = 4664.4, y = -1949.9 },
             Zone = 108,
             _index = 12,
+        },
+        {
+            Done = { 9979 },
+            Coord = { x = 5193, y = -1744.7 },
+            Zone = 111,
+            _index = 13,
+        },
+        {
+            PickUp = { 10112 },
+            Coord = { x = 5193, y = -1744.7 },
+            Zone = 111,
+            _index = 14,
         },
     },
 }
