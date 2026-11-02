@@ -1,0 +1,15 @@
+---
+description: Author APR leveling routes with the player. Read Routes/ROUTE_AUTHORING.md before planning or editing a route.
+globs: Routes/**/*.lua
+alwaysApply: false
+---
+
+# Маршруты APR
+
+Перед планом или правкой маршрута прочитай `Routes/ROUTE_AUTHORING.md`.
+
+- Игрок сам дописывает шаги. Не выдумывай `Coord`, `Button`, `GossipOptionIDs`, `NpcDismount`, `MobId`, `itemID` и не переводи карту 0–100 в мировые ярды.
+- Имена квестов и NPC — как в русском клиенте. Один пункт ответа = одно действие, в пункте название квеста.
+- `Done` до закрытия всех целей уводит стрелку на сдачу. Сначала `Qpart` на каждую открытую цель. `Fillers` шаг не держат.
+- Соло-круг географический. Группу, PvP, подземелье и квест в другую зону не вставляй в середину.
+- После «посмотри» или «обновил» читай хвост рабочего файла и говори только то, чего там ещё нет.
