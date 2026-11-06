@@ -196,6 +196,8 @@
             Waypoint = 10526,
             Coord = { x = 6541.2, y = 1385.3 },
             Range = 5,
+            IsQuestOnQuest = 10526,
+            Not = { IsQuestReadyForTurnIn = 10526 },
             Zone = 105,
             _index = 29,
         },
